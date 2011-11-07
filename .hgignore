@@ -1,0 +1,22 @@
+syntax: glob
+
+*\Debug\*
+*\Release\*
+
+*.suo
+*.user
+*.ncb
+*.nlb
+*.aps
+*.clw
+*.pdb
+*.pch
+*.vspscc
+*.ilk
+*.log
+*.sbr
+*.scc
+*.sig
+*.aps
+*.APS
+*.db
